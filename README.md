@@ -1,3 +1,5 @@
 Repositorio para uso de git avanzado
 
-testing
+repositorio para testing
+
+@estebanrfp
