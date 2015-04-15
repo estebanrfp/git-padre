@@ -1,5 +1,6 @@
 Repositorio para uso de git avanzado
 
-repositorio para testing
-
 @estebanrfp
+
+
+Este repositorio contiene un submodulo de git
