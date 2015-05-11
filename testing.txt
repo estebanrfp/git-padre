@@ -1,6 +1,0 @@
-Agregamos este texto para testear ammend
-<<<<<<< HEAD
-
-ahora agregamos lo que faltaba
-=======
->>>>>>> 0208a8108a64742dd910167332f98505db20d464
